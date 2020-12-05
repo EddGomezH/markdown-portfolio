@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Cursiva 1*
+_Cursiva 2_
+
+**Negrita 1**
+__Negrita 2__
+
+_Cursiva **y** Negrita_
